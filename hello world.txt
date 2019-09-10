@@ -1,1 +1,7 @@
-meh
+steps:
+cd example      //this makes to enter the folder (if it exist) PS if the name of folder is my folder, we are supposed to rite in form cd 'my folder'
+cd .. //to exit the folder
+git clone https://github.com/fullatron/dash     //makes you download the files in that repository
+git add *       //to add all the files 
+git commit -m "comment"      // kindof making them ready for comitting
+git push origin master //pushes the code to github repository 
