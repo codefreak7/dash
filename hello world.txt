@@ -5,3 +5,8 @@ git clone https://github.com/fullatron/dash     //makes you download the files i
 git add *       //to add all the files 
 git commit -m "comment"      // kindof making them ready for comitting
 git push origin master //pushes the code to github repository 
+
+Some other commands: 
+git init [repository name] //starts a new repository
+git status  //lists all the files that have to be committed
+git log  //lists the version history for the current branch
